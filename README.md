@@ -1,4 +1,4 @@
-![Azure B2C and Descope Banner](https://github.com/descope-sample-apps/next-amplify-sample-app/assets/32936811/7bf0734b-3253-4582-b3e4-95e83310cbc5)
+![Azure B2C and Descope Banner](https://github.com/descope-sample-apps/descope-azure-b2c-react-sample/assets/32936811/425ac418-b8d6-4031-bafd-808bfc3e51bb)
 
 ---
 
